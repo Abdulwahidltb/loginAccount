@@ -1,0 +1,51 @@
+﻿#dvLeft
+{
+    color: #000000;
+    background-color: #66CCFF;
+    width: 30%;
+    height: 400px;
+    float:left;
+}
+#dvTop
+{
+    color: #000000;
+    background-color: #FFFF66;
+    width: 100%;
+    height: 100px;
+    
+}
+#dvRight
+{
+    color: #000000;
+    background-color: #FF9999;
+    width: 70%;
+    height: 400px;
+    float:left;
+}
+#dvBottom
+{
+    color: #000000;
+    background-color: #66FFCC;
+    width: 100%;
+    height: 100px;
+    float: left;
+}
+table{
+color: #000000;
+    background-color: #66FFCC;
+
+}
+
+a:hover
+{
+    background-color: #996633;
+    color: #FFFF66;
+    font-weight:bolder;
+}
+
+p
+{
+    font-weight: bolder;
+    font-size: xx-large;
+    color: #CC3300;
+}
